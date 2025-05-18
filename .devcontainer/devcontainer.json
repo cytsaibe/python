@@ -8,6 +8,13 @@
 	},
 	"features": {
 		"ghcr.io/devcontainers/features/git:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"MS-CEINTL.vscode-language-pack-zh-hant"
+			]
+		}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
